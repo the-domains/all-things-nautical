@@ -1,7 +1,7 @@
 name: All things nautical
 favicon: null
-layout_spectrum: 0.5279900268651545
-typography_spectrum: 0.6398619993124157
+layout_spectrum: 1
+typography_spectrum: 0.24543
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000131'
+    - '#bbd7ec'
+    - '#f1fbfd'
+    - '#295690'
+    - '#5f8aba'
   brandStrength: 0.5830969396047294
   lightness: 0.1824759733863175
   saturation: 0.9971598139964044
